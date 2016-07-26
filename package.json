@@ -1,0 +1,27 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGu14/learn-react.git"
+  },
+  "author": "James Gu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesGu14/learn-react/issues"
+  },
+  "homepage": "https://github.com/JamesGu14/learn-react#readme",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
